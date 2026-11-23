@@ -1,0 +1,1 @@
+{"name":"backrooms-online","version":"1.0.0","private":true,"description":"Backrooms game + multiplayer server (no dependencies)","scripts":{"start":"node server.js"},"engines":{"node":">=16"}}
